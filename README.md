@@ -1,5 +1,4 @@
-# I develop this app by using java in android studio to built frontend and 
-I used php to write the Api and I also used mysql for the database to built the backend.
+# I develop this app by using java in android studio to built frontend and I used php to write the Api and I also used mysql for the database to built the backend.
 
 Implementation Details
 
