@@ -16,7 +16,7 @@ that includes the storage, brand, status image and date with specified time are 
 Finally when logout section is clicked, it will appear like shown below asking whether the user is sure to logout or not. If No, the user stays on 
 the page and if yes the user will logout of the page.
 
- Conclusion
+# Conclusion
 This project is found interesting from a technical point of view as it involves android app development, implementing a navigator to tell the users about 
 common features, implementing a database to to track information about computers, update daily classified lists of computers and ensuring that is simple 
 and easy to use.
